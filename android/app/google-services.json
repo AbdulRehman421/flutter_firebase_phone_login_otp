@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1090752861960",
+    "project_id": "flutter-phone-otp-cf54e",
+    "storage_bucket": "flutter-phone-otp-cf54e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090752861960:android:35deb073845ba344953ebd",
+        "android_client_info": {
+          "package_name": "com.example.firebase_phone_otp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6-MTeY5QIK_0jNlVQKuX7dPa6NstUdWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
